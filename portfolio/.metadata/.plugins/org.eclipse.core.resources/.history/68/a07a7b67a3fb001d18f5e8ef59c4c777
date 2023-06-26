@@ -1,0 +1,28 @@
+package admin;
+
+import java.sql.Connection;
+
+public class login_go {
+	dbconfig dbg = new dbconfig();
+	
+	public String logingo(String uid, String upw) {
+		
+		try {
+		Connection con = this.dbg.info();
+		
+		
+		
+		
+		
+		
+		}
+		catch (Exception e) {}
+		
+		
+		
+		
+		
+		
+		return null;
+	}
+}

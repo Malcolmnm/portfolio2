@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="C:\Users\Administrator\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_19.0.1.v20221102-1007\jre" version="19.0.1"/>
+    <libraryInfo home="C:\Users\Administrator\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_19.0.1.v20221102-1007" version="19.0.1"/>
+    <libraryInfo home="E:\project\jre" version="1.8.0_361">
+        <bootpath>
+            <entry path="E:\project\jre\lib\resources.jar"/>
+            <entry path="E:\project\jre\lib\rt.jar"/>
+            <entry path="E:\project\jre\lib\jsse.jar"/>
+            <entry path="E:\project\jre\lib\jce.jar"/>
+            <entry path="E:\project\jre\lib\charsets.jar"/>
+            <entry path="E:\project\jre\lib\jfr.jar"/>
+            <entry path="E:\project\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="E:\project\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="E:\project\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+</libraryInfos>

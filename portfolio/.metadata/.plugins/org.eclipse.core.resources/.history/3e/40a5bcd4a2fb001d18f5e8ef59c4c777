@@ -1,0 +1,9 @@
+package admin;
+
+public class login_go {
+
+	public String logingo() {
+		
+		return null;
+	}
+}
